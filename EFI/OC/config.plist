@@ -1023,7 +1023,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1793</integer>
 			<key>ROM</key>
 			<data>3d3d3Q==</data>
 			<key>SpoofVendor</key>

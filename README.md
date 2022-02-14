@@ -1,1 +1,2 @@
 # EFI-Hackintosh-QQLT
+# Hardware
